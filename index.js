@@ -1,2 +1,4 @@
 // Write your code in this file!
-currentUser = "Lucy";
+let currentUser = "Lucy";
+
+let welcomeMessage = "Welcome to Flatbook,";
